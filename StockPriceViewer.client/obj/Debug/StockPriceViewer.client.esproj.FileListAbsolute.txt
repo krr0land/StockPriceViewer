@@ -1,0 +1,1 @@
+C:\Users\roli1\Desktop\StockPriceViewer\StockPriceViewer.client\obj\Debug\StockPriceViewer.client.esproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+{
+    "schemaFile": "./swagger.json",
+    "apiFile": "./src/Api/emptyApi.ts",
+    "apiImport": "emptySplitApi",
+    "outputFile": "./src/Api/backendApi.ts",
+    "exportName": "backendApi",
+    "hooks": true
+}

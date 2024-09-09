@@ -1,0 +1,6 @@
+@StockPriceViewer.Server_HostAddress = http://localhost:5199
+
+GET {{StockPriceViewer.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

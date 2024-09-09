@@ -1,0 +1,2 @@
+C:\Users\roli1\Desktop\CandelaProject\candelaproject.client\obj\Debug\candelaproject.client.esproj.CoreCompileInputs.cache
+C:\Users\roli1\Desktop\candela-character-manager\candelaproject.client\obj\Debug\candelaproject.client.esproj.CoreCompileInputs.cache
